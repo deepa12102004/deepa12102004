@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Deepa!</h1>
+<h1 align="center">👋 Hello, I'm Deepa Prajapat!</h1>
 
 <p align="center">
   <b>Software Developer</b> with experience in both <b>Frontend</b> and <b>Backend</b> development.<br>
@@ -45,7 +45,7 @@
 
 <ul>
   <li>📧 <a href="mailto:deepaumrainiya1@gmail.com">deepaumrainiya1@gmail.com</a></li>
-  <li>💼 <a href="https://linkedin.com/in/your-link" target="_blank">LinkedIn</a></li>
+ 
 </ul>
 
 <hr>
