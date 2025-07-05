@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Deepa!</h1>
 
-<!--
-**deepa12102004/deepa12102004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Software Developer</b> with experience in both <b>Frontend</b> and <b>Backend</b> development.<br>
+  I love building clean, scalable, high-performance web applications and exploring new technologies.
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💻 Tech Stack</h2>
+
+<h3>🚀 Frontend</h3>
+<ul>
+  <li>HTML5, CSS3, JavaScript</li>
+  <li>React.js</li>
+  <li>Tailwind CSS, Bootstrap</li>
+</ul>
+
+<h3>🛠 Backend</h3>
+<ul>
+  <li>Python, Django, Flask</li>
+  <li>MySQL, PostgreSQL</li>
+</ul>
+
+<h3>⚙️ Tools & Platforms</h3>
+<ul>
+  <li>Git & GitHub</li>
+  <li>RESTful APIs, Postman</li>
+  <li>VS Code, Linux</li>
+</ul>
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepa12102004&show_icons=true&theme=radical" alt="Deepa's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepa12102004&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<hr>
+
+<h2>📫 Connect with Me</h2>
+
+<ul>
+  <li>📧 <a href="mailto:deepaumrainiya1@gmail.com">deepaumrainiya1@gmail.com</a></li>
+  <li>💼 <a href="https://linkedin.com/in/your-link" target="_blank">LinkedIn</a></li>
+</ul>
+
+<hr>
+
+<p align="center">
+  😊 <i>Thanks for visiting my profile!</i>
+</p>
